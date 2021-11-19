@@ -11,6 +11,7 @@
 <body>
 	<h1> coba git gaes </h1>
 	<p> aku suka ngoding </p>
+	<p> TAPI BOONG WKWKWK </p>
 <script type="text/javascript" src="script.js"></script>	
 </body>
 </html>
